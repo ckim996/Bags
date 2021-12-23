@@ -1,3 +1,10 @@
+/**
+ * Guessing Game
+ * Description: Game gives you four tries to guess the correct numbers from 1-10
+ * Skills used: Bags ADT, sorting algorithm, random, comparing two arrays by incrementing matching values
+ * Date: 12/22/2021
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 
